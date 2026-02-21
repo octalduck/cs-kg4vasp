@@ -1,5 +1,5 @@
 # cs-kg4vasp
-slight change of kg4vasp so that it handles collinear spin cases
+slight change of kg4vasp so that it handles collinear spin cases for DC cases ONLY
 
 Original kg4vasp package is here: https://github.com/conodipaola/kg4vasp
 
